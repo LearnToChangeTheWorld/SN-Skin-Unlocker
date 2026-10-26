@@ -73,6 +73,11 @@ README.zh-CN.md            中文说明入口
 
 原始压缩包中已署名gkyovo。随附技术分析属于原始资料，不会在发布整理过程中自动执行。
 
+**免责声明**
+仅供自有/授权环境下的逆向学习与测试,请勿用于任何违反当地法律或平台条款的用途;因使用产生的后果由使用者自负。
+
+
+
 ## English
 
 Download **`SN-Skin-Unlocker-v1.0.0-Windows.zip`** from this repository's Releases page, extract all files, and run `SNLauncher.exe` as administrator. Keep all companion files together. No compilation is required. Actual in-game compatibility has not been verified for this release.
