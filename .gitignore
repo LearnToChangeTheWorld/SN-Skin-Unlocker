@@ -1,0 +1,20 @@
+# build output / toolchain
+bin/
+obj/
+*.pdb
+*.user
+.vs/
+.vscode/
+
+# runtime artefacts produced by the launcher
+*.log
+dump/
+bodies/
+stub_dump/
+net_bodies/
+api_response.txt
+launchkey_body.*
+
+# local packages
+*.zip
+!dist/*.zip
